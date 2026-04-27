@@ -1,0 +1,58 @@
+<svg width="640" height="520" viewBox="0 0 640 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="40" x2="580" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#0B2531"/>
+      <stop offset="1" stop-color="#134E4A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="114" y1="130" x2="310" y2="288" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="375" y1="226" x2="514" y2="385" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="640" height="520" rx="28" fill="url(#bg)"/>
+  <circle cx="536" cy="92" r="52" fill="#14B8A6" opacity="0.14"/>
+  <circle cx="132" cy="426" r="84" fill="#2DD4BF" opacity="0.08"/>
+
+  <rect x="72" y="110" width="276" height="192" rx="20" fill="#09111F" stroke="#1F4855" stroke-width="2"/>
+  <rect x="92" y="132" width="236" height="138" rx="12" fill="#0F172A"/>
+  <rect x="154" y="302" width="114" height="16" rx="8" fill="#233444"/>
+  <rect x="182" y="318" width="58" height="12" rx="6" fill="#1A2634"/>
+
+  <rect x="112" y="154" width="112" height="18" rx="9" fill="url(#accent)" opacity="0.95"/>
+  <rect x="112" y="186" width="170" height="10" rx="5" fill="#325266"/>
+  <rect x="112" y="208" width="138" height="10" rx="5" fill="#29485A"/>
+  <rect x="112" y="230" width="152" height="10" rx="5" fill="#1E3A4A"/>
+  <circle cx="293" cy="155" r="7" fill="#2DD4BF"/>
+  <circle cx="293" cy="187" r="7" fill="#14B8A6" opacity="0.9"/>
+  <circle cx="293" cy="209" r="7" fill="#0F766E" opacity="0.85"/>
+
+  <circle cx="438" cy="168" r="58" fill="#F1C27D"/>
+  <path d="M387 160C387 123 413 103 447 103C481 103 501 125 501 160V173H387V160Z" fill="#111827"/>
+  <path d="M401 150C407 121 429 111 445 111C468 111 488 129 490 156C478 148 466 146 451 146C432 146 420 150 401 150Z" fill="#1F2937"/>
+  <path d="M409 206C416 222 429 230 445 230C462 230 476 221 482 206V188H409V206Z" fill="#E9B56E"/>
+
+  <path d="M366 363C366 307 400 254 445 254C490 254 524 307 524 363V393H366V363Z" fill="url(#shirt)"/>
+  <rect x="421" y="234" width="48" height="44" rx="18" fill="#F1C27D"/>
+  <path d="M431 255L446 271L460 255" stroke="#E8F5F3" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M408 289L445 331L482 289" stroke="#D7FFFA" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+
+  <rect x="330" y="346" width="228" height="122" rx="18" fill="#0C1321" stroke="#26384A" stroke-width="2"/>
+  <rect x="352" y="366" width="184" height="14" rx="7" fill="#2DD4BF" opacity="0.85"/>
+  <rect x="352" y="392" width="146" height="10" rx="5" fill="#36566B"/>
+  <rect x="352" y="414" width="166" height="10" rx="5" fill="#2A4558"/>
+  <rect x="352" y="436" width="104" height="10" rx="5" fill="#203847"/>
+  <circle cx="518" cy="372" r="6" fill="#14B8A6"/>
+  <circle cx="500" cy="372" r="6" fill="#2DD4BF" opacity="0.85"/>
+
+  <path d="M371 315C388 324 401 339 409 359" stroke="#F1C27D" stroke-width="18" stroke-linecap="round"/>
+  <path d="M519 316C502 325 489 340 481 360" stroke="#F1C27D" stroke-width="18" stroke-linecap="round"/>
+
+  <text x="78" y="74" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Full Stack Engineer</text>
+  <text x="78" y="96" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="500">Scalable systems • Clean UX • AI-augmented workflows</text>
+</svg>
