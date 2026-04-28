@@ -99,6 +99,8 @@
   <img src="https://img.shields.io/badge/BullMQ-1f2937?style=for-the-badge&logo=buffer&logoColor=white" alt="BullMQ" />
   <img src="https://img.shields.io/badge/TypeORM-E11D48?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
   <img src="https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
 </p>
 
 ### AI, Automation & Productivity
@@ -109,33 +111,9 @@
   <img src="https://img.shields.io/badge/OpenAI_Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/Cursor-1f2937?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Lovable-E11D48?style=for-the-badge&logoColor=white" alt="Lovable" />
   <img src="https://img.shields.io/badge/Git-7C2D12?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
-## Professional Experience
-
-### Software Engineer — Elktech, Lahore
-**May 2025 - Present**
-
-- Build scalable frontend modules in **Next.js** with strong attention to **performance** and **UX**
-- Use AI-assisted development workflows with **Cursor**, **Claude**, and structured tooling to speed up debugging and delivery
-- Collaborate closely with product and design teams to ship polished, high-quality features
-- Improve development speed by integrating practical AI workflows into daily engineering work
-
-### Associate Software Engineer — PieCyfer, Lahore
-**March 2024 - April 2025**
-
-- Designed scalable backend systems with **Express.js**, **NestJS**, and **Node.js clustering**
-- Improved system performance by **30%** and accelerated response times by **25%**
-- Implemented **Redis** and **BullMQ** for caching, queues, and background job processing
-- Built full-stack features using **React.js**, **Redux**, and modern frontend practices
-- Optimized AI-assisted workflows using structured prompts and tool integrations
-
-### MERN Stack Trainee — Knowledge Streams, Lahore
-**November 2023 - January 2024**
-
-- Built responsive interfaces with **React.js** and **Tailwind CSS**
-- Developed **RESTful APIs** and strengthened end-to-end full-stack fundamentals
 
 ## Selected Projects
 
